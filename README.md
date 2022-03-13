@@ -38,8 +38,8 @@ This project contains all test code, training data sets, benchmarking results an
 
 -Upload the 4 dataset .csv files into the Google Collaboratory environment
 
---Google Collboratory file upload instructions:
----Make sure to upload/import the 4 dataset .csv files into your Google Collaboratory environment. This can be done in the following steps:
+-Google Collaboratory file upload instructions:
+Make sure to upload/import the 4 dataset .csv files into your Google Collaboratory environment. This can be done in the following steps:
 1. Click the 'Files' icon at the very left of this window
 2. Within this window, click the 'Upload to session storage' icon.
 3. Select the 4 .csv (2 training and 2 test) files stored either locally on your computer or on your Google Drive.
