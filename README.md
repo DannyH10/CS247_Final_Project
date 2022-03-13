@@ -5,7 +5,7 @@ This project contains all test code, training data sets, benchmarking results an
 - Training data excel files are 13 MB and 112 MB
 - Compressed them to a zip file to upload to GitHub
 
-# It is recommended that you run the benchmarking and custom training scripts in Google Collaboratory, so that you can make use of the GPU accessibility. Below, we outline the methods for running the benchmarking code locally on your machine or using Google Collaboratory.
+## It is recommended that you run the benchmarking and custom training scripts in Google Collaboratory, so that you can make use of the GPU accessibility. Below, we outline the methods for running the benchmarking code locally on your machine or using Google Collaboratory.
 
 ## Set up dev environment on local machine
 
