@@ -34,5 +34,7 @@ This project contains all test code, training data sets, benchmarking results an
 
 -Upload the notebook into your Google Collaboratory environment
 -Upload the 4 dataset .csv files into the Google Collaboratory environment
+
 ![image](https://user-images.githubusercontent.com/82487365/158080834-9a74a26a-05f3-4d79-98b3-1f18d8acdd81.png)
+
 ![image](https://user-images.githubusercontent.com/82487365/158080848-328f75e5-341b-40e6-b9bd-d22447520e0c.png)
