@@ -17,6 +17,7 @@ This project contains all test code, training data sets, benchmarking results an
 - scikit-learn 1.0.2
 - scipy 1.8.0
 - spacy 3.2.3
+- transformers 4.16.2
 
 ## Navigate to the file directory and run the following command
 
