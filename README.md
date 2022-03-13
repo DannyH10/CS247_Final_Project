@@ -4,7 +4,7 @@ This project contains all test code, training data sets, benchmarking results an
 ## Set up dev environment
 
 - `conda env create -n CS247_project`: create new environment
-- 'conda activate CS247_project': activate python environment
+- `conda activate CS247_project`: activate python environment
 
 ## The notebooks in this project were developed and run with the follow packages (and package versions) and all of their dependencies
 
@@ -20,4 +20,4 @@ This project contains all test code, training data sets, benchmarking results an
 
 ## Navigate to the file directory and run the following command
 
--'jupyter notebook' : open jupyter notebook in the directory
+-`jupyter notebook` : open jupyter notebook in the directory
