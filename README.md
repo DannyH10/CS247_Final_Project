@@ -2,7 +2,7 @@
 This project contains all test code, training data sets, benchmarking results and our paper for the winter 2022 CS247 course project.
 
 ## Please use the file, CS247_CourseProject_Benchmarking_Code.ipynb
-## If you would like to run the custom training code, the notebook name is, CS247_Custom_Train_BERT_.ipynb. Please keep in mind that this would take several hours to run. We recommend that this script is just use as a reference and for grading.
+## If you would like to run the custom training code, the notebook name is, CS247_Custom_Train_BERT_.ipynb. Please keep in mind that this would take several hours to run. We recommend that this script is used as a reference and for grading.
 
 ## It is recommended that you run the benchmarking and custom training scripts in Google Collaboratory, so that you can make use of the GPU accessibility. Below, we outline the methods for running the benchmarking code locally on your machine or using Google Collaboratory.
 
