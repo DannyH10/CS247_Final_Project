@@ -22,6 +22,7 @@ This project contains all test code, training data sets, benchmarking results an
 - scipy 1.8.0
 - spacy 3.2.3
 - transformers 4.16.2
+- nltk 3.6.7
 
 ## Navigate to the file directory and run the following command
 
@@ -38,5 +39,3 @@ This project contains all test code, training data sets, benchmarking results an
 ![image](https://user-images.githubusercontent.com/82487365/158080925-f2da64ba-0ca0-440a-8485-2e0395814d8e.png)
 
 ![image](https://user-images.githubusercontent.com/82487365/158080949-cedec1a8-eb9b-4058-8452-0befcba94209.png)
-
-- nltk 3.6.7
