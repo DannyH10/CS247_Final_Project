@@ -22,3 +22,6 @@ This project contains all test code, training data sets, benchmarking results an
 ## Navigate to the file directory and run the following command
 
 -`jupyter notebook` : open jupyter notebook in the directory
+
+## In the jupyter notebook navigate to the Import Traning Sets cell and modify the path to match the file location holding the excel sheets (shown below)
+![image](https://user-images.githubusercontent.com/74755502/158052512-7e319d7f-b0cb-4441-aa38-fa95a8bf693d.png)
