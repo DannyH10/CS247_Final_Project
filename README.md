@@ -33,7 +33,10 @@ This project contains all test code, training data sets, benchmarking results an
 ## Set up dev environment using Google Collaboratory
 
 -Upload the notebook into your Google Collaboratory environment
+
 -Upload the 4 dataset .csv files into the Google Collaboratory environment
+
+-Make sure that the path contains '/content/nameoffile.csv'
 
 ![image](https://user-images.githubusercontent.com/82487365/158080925-f2da64ba-0ca0-440a-8485-2e0395814d8e.png)
 
