@@ -1,0 +1,600 @@
+####################################################################################
+Question: What can prevent a green color in glass?
+Question Index: 62814
+Correct Answer: Manganese dioxide
+BERT Answer: systems that do not invoke it
+0.0
+####################################################################################
+Question: Where is a royal assent ceremony held within the United Kingdom?
+Question Index: 58508
+Correct Answer: Palace of Westminster
+BERT Answer: Palace of Westminster
+1.0
+####################################################################################
+Question: Where did Bell and his wife go on their honeymoon?
+Question Index: 10643
+Correct Answer: Europe
+BERT Answer: Quebec
+1.0
+####################################################################################
+Question: Why do muslim anti-masonics believe that the Freemasons want to destroy the Al-Aqsa Mosque?
+Question Index: 35350
+Correct Answer: rebuild the Temple of Solomon in Jerusalem
+BERT Answer: to rebuild the Temple of Solomon in Jerusalem
+1.0
+####################################################################################
+Question: A colder city like Lugo has how many days with frosts?
+Question Index: 54370
+Correct Answer: 40
+BERT Answer: 40
+1.0
+####################################################################################
+Question: Buddha recommended viewing thing by how many marks of existence?
+Question Index: 5039
+Correct Answer: three
+BERT Answer: three
+125.0
+####################################################################################
+Question: In which year did Imperial University claim the award for being voted the highest in the UK for Job Prospects?
+Question Index: 25307
+Correct Answer: 2014
+BERT Answer: None
+0.0
+####################################################################################
+Question: Give an example of someone who was a caretaker manager?
+Question Index: 74428
+Correct Answer: examples include Paul Hart at Portsmouth and David Pleat at Tottenham Hotspur.
+BERT Answer: Paul Hart
+0.0
+####################################################################################
+Question: In what century was the process of using hops to produce beer introduced to England?
+Question Index: 10823
+Correct Answer: 15th
+BERT Answer: None
+0.0
+####################################################################################
+Question: What design did Peter Cooper feel was the most efficient?
+Question Index: 68672
+Correct Answer: cylindrical
+BERT Answer: None
+0.0
+####################################################################################
+Question: Who is Leucothea's sister?
+Question Index: 62053
+Correct Answer: Clytia
+BERT Answer: Artemis
+0.0
+####################################################################################
+Question: The Belgian Suite is located at the bottom of which staircase?
+Question Index: 37062
+Correct Answer: Minister's Staircase
+BERT Answer: Belgian
+0.0
+####################################################################################
+Question: Who played the mandolin in Vaudeville? 
+Question Index: 60828
+Correct Answer: Samuel Siegel
+BERT Answer: Samuel Siegel
+1.0
+####################################################################################
+Question: Where did Beatrice meet and fall in love with Prince Henry? 
+Question Index: 34887
+Correct Answer: at the wedding of Victoria's granddaughter Princess Victoria of Hesse
+BERT Answer: at
+0.0
+####################################################################################
+Question: Tajwid describes rules for what noiseless aspect of articulating Quranic verses?
+Question Index: 70694
+Correct Answer: pause in recitation
+BERT Answer: verses
+0.0
+####################################################################################
+Question: What film depicts the Chicago Cubs defeating a baseball team from Miami in the 2015 World Series?
+Question Index: 37846
+Correct Answer: Back to the Future Part II
+BERT Answer: Back to the Future Part II
+1.0
+####################################################################################
+Question: The Book of Confessions reflects the inclusion of another confession, what is it called?
+Question Index: 41701
+Correct Answer: Westminster Standards
+BERT Answer: Westminster Confession of Faith
+1.0
+####################################################################################
+Question: What Gran Turismo game was shown in 2007 but not released until after 2007?
+Question Index: 58334
+Correct Answer: Gran Turismo 5 Prologue
+BERT Answer: None
+0.0
+####################################################################################
+Question: What style of building is the Montevideo Metropolitan Cathedral? 
+Question Index: 36370
+Correct Answer: Neoclassical
+BERT Answer: Neoclassical
+2.0
+####################################################################################
+Question: Why was the rule of precedent allowed?
+Question Index: 43223
+Correct Answer: in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided
+BERT Answer: it
+0.0
+####################################################################################
+Question: Who backed out of becoming SoS after Hillary?
+Question Index: 65843
+Correct Answer: Susan Rice
+BERT Answer: None
+0.0
+####################################################################################
+Question: Who would rule the country temporarily?
+Question Index: 58889
+Correct Answer: a transitional parliament
+BERT Answer: United States President
+0.0
+####################################################################################
+Question: Why did many software developers choose not to redesign the Mac operating system and rewrite the programming code?
+Question Index: 28867
+Correct Answer: This was a time-consuming task
+BERT Answer: time
+0.0
+####################################################################################
+Question: Is teenage alcohol drug use at al all-time high or low?
+Question Index: 30465
+Correct Answer: low
+BERT Answer: None
+0.0
+####################################################################################
+Question: In what films did Spielberg address war?
+Question Index: 68374
+Correct Answer: Empire of the Sun, Saving Private Ryan, War Horse and Bridge of Spies
+BERT Answer: Empire of the Sun, Saving Private Ryan, War Horse and Bridge of Spies
+1.0
+####################################################################################
+Question: What indirect benefit of DST might cause some areas to observe it even though they don't get any direct benefits like cost or energy savings?
+Question Index: 13997
+Correct Answer: coordination with others
+BERT Answer: heart attack
+0.0
+####################################################################################
+Question: Which year brought the end to silver being in dimes and quarters?
+Question Index: 25165
+Correct Answer: 1964
+BERT Answer: 2015
+0.0
+####################################################################################
+Question: Where did Arabic numerals originate?
+Question Index: 49202
+Correct Answer: India
+BERT Answer: None
+0.0
+####################################################################################
+Question: What are two smaller galleries in Nanjing?
+Question Index: 14807
+Correct Answer: Red Chamber Art Garden and Jinling Stone Gallery
+BERT Answer: Red Chamber Art Garden and Jinling Stone Gallery
+1.0
+####################################################################################
+Question: What is in saliva that starts to digest the starches?
+Question Index: 27344
+Correct Answer: salivary amylase
+BERT Answer: salivary amylase
+1.0
+####################################################################################
+Question: Where does the Washington University School of Law rank among "25 Most Wired Law Schools"?
+Question Index: 72519
+Correct Answer: 4th
+BERT Answer: None
+0.0
+####################################################################################
+Question: What party in Yugoslavia did he join?
+Question Index: 17073
+Correct Answer: Communist Party
+BERT Answer: Communist
+10.0
+####################################################################################
+Question: Which area contains the Prudhoe Bay Oil Field?
+Question Index: 60317
+Correct Answer: The North Slope
+BERT Answer: None
+0.0
+####################################################################################
+Question: How much of the population lives below the poverty line?
+Question Index: 18790
+Correct Answer: More than two-thirds
+BERT Answer: None
+0.0
+####################################################################################
+Question: What two countries have not legally committed to advancing an anti-discriminaory stance towards young people?
+Question Index: 30380
+Correct Answer: U.S. and South Sudan
+BERT Answer: U. S. and South Sudan
+1.0
+####################################################################################
+Question: The Special Clerical Court is accountable to only which body?
+Question Index: 75821
+Correct Answer: the Supreme Leader
+BERT Answer: None
+0.0
+####################################################################################
+Question: Who made the Angel of Independence?
+Question Index: 39828
+Correct Answer: the order of the Emperor Maximilian
+BERT Answer: None
+0.0
+####################################################################################
+Question: Who was the rebel baron leader?
+Question Index: 28559
+Correct Answer: Robert fitz Walter
+BERT Answer: None
+0.0
+####################################################################################
+Question: Why were the Karachays exiled?
+Question Index: 10342
+Correct Answer: alleged collaboration with the Germans
+BERT Answer: their alleged collaboration with the Germans
+1.0
+####################################################################################
+Question: Aside from Switzerland, what country speaks a dialect related to Swiss German?
+Question Index: 15214
+Correct Answer: Liechtenstein
+BERT Answer: Liechtenstein
+1.0
+####################################################################################
+Question: Who guides the students in a formal environment?
+Question Index: 66547
+Correct Answer: certified teacher
+BERT Answer: None
+0.0
+####################################################################################
+Question: What is Seattle's musical genre developed in the 1990s? 
+Question Index: 33035
+Correct Answer: grunge
+BERT Answer: grunge
+1.0
+####################################################################################
+Question: What are huge quantities of information stored as?
+Question Index: 72907
+Correct Answer: bits
+BERT Answer: index cards kept in ashoe box
+0.0
+####################################################################################
+Question: How many female Dominican houses were there in Germany?
+Question Index: 53885
+Correct Answer: seventy-four
+BERT Answer: seventy- four
+0.0
+####################################################################################
+Question: Who verbally attacked Steve Stone?
+Question Index: 37728
+Correct Answer: Kent Mercker
+BERT Answer: Kent Mercker
+1.0
+####################################################################################
+Question: When did more madaris begin to form more rapidly?
+Question Index: 65131
+Correct Answer: 11th and 12th centuries
+BERT Answer: Between
+0.0
+####################################################################################
+Question: How many fleet carriers were lost by the Japanese in the Battle of Midway?
+Question Index: 75062
+Correct Answer: four
+BERT Answer: three
+133.0
+####################################################################################
+Question: How big was the tornado in 2011?
+Question Index: 46963
+Correct Answer: F3
+BERT Answer: None
+0.0
+####################################################################################
+Question: What artist made portraits of the Chopin family in 1829?
+Question Index: 922
+Correct Answer: Ambrozy Mieroszewski
+BERT Answer: None
+0.0
+####################################################################################
+Question: Where is the head quarters for the European Space Agency?
+Question Index: 61669
+Correct Answer: Paris
+BERT Answer: Boulogne- Billancourt
+0.0
+####################################################################################
+Question: When do many insectivorous birds migrate?
+Question Index: 22342
+Correct Answer: usually at night
+BERT Answer: usually at night
+1.0
+####################################################################################
+Question: Which two major Protestant denominations are based in Memphis?
+Question Index: 66798
+Correct Answer: Church of God in Christ and the Cumberland Presbyterian Church
+BERT Answer: Church of God in Christ and the Cumberland Presbyterian Church
+1.0
+####################################################################################
+Question: When did the French try to create co-masonic lodges?
+Question Index: 35451
+Correct Answer: the 1890s
+BERT Answer: None
+0.0
+####################################################################################
+Question: What did Darwin learn about about the characteristics of domestic animals?
+Question Index: 52068
+Correct Answer: use in our domestic animals strengthens and enlarges certain parts, and disuse diminishes them
+BERT Answer: developmental and anatomical differences
+1.0
+####################################################################################
+Question: What did submarines sinking Japanese ships do?
+Question Index: 75088
+Correct Answer: strangled Japan
+BERT Answer: strangled Japan
+1.0
+####################################################################################
+Question: What was Clayton Lockett's cause of death?
+Question Index: 32211
+Correct Answer: heart attack
+BERT Answer: cancer
+0.0
+####################################################################################
+Question: In 2013 the number of government jobs was what?
+Question Index: 11561
+Correct Answer: 800
+BERT Answer: None
+0.0
+####################################################################################
+Question: What conference lost the first All-Star Game?
+Question Index: 14953
+Correct Answer: American Conference
+BERT Answer: American Conference
+1.0
+####################################################################################
+Question: Which Austrian political party did Popper join as a youth?
+Question Index: 60503
+Correct Answer: Social Democratic Workers' Party of Austria
+BERT Answer: socialist
+0.0
+####################################################################################
+Question: On what day does The Essentials have its first airing each week?
+Question Index: 53360
+Correct Answer: Saturday
+BERT Answer: June
+0.0
+####################################################################################
+Question: What do Coptic Christians face?
+Question Index: 80290
+Correct Answer: discrimination at multiple levels of the government,
+BERT Answer: discrimination at multiple levels of the government
+0.0
+####################################################################################
+Question: Who is credited with the Vaisesika darsana?
+Question Index: 53442
+Correct Answer: Kanada Kasyapa
+BERT Answer: Pushyamitra Shunga
+0.0
+####################################################################################
+Question: What did Paul want to reform as a newly elected pope?
+Question Index: 46047
+Correct Answer: Canon Law
+BERT Answer: Canon Law
+2.0
+####################################################################################
+Question: How many drugs were approved in 2007?
+Question Index: 34092
+Correct Answer: 18 approvals
+BERT Answer: 2007
+0.0
+####################################################################################
+Question: What president ignored Eisenhower's recommendations in regard to atomic weapons?
+Question Index: 82843
+Correct Answer: Truman
+BERT Answer: None
+2.0
+####################################################################################
+Question: The British revival of Georgian architecture in the 20th century is generally referred to as?
+Question Index: 76289
+Correct Answer: Neo-Georgian
+BERT Answer: Georgian Revival architecture
+0.0
+####################################################################################
+Question: What political theory fascinated Nasser?
+Question Index: 57184
+Correct Answer: Egyptian nationalism
+BERT Answer: Soviet-stylesystem
+2.0
+####################################################################################
+Question: Who introduced Irving to Spielberg?
+Question Index: 68610
+Correct Answer: Brian De Palma
+BERT Answer: None
+1.0
+####################################################################################
+Question: Which Chetnik leader did Tito hold talks with?
+Question Index: 17110
+Correct Answer: Draza Mihailovic
+BERT Answer: President Dwight D. Eisenhower
+1.0
+####################################################################################
+Question: How long ago was the decedent of 99% of all modern potatoes cultivated as long ago as?
+Question Index: 79745
+Correct Answer: 10,000 years ago
+BERT Answer: 10, years ago
+1.0
+####################################################################################
+Question: What year was the UAR formed?
+Question Index: 57370
+Correct Answer: 1958
+BERT Answer: 1958
+1.0
+####################################################################################
+Question: When did Elizabeth become the longest reigning monarch?
+Question Index: 31527
+Correct Answer: 9 September 2015
+BERT Answer: 2015
+0.0
+####################################################################################
+Question: What was the estimated population of the whooping crane in 1941?
+Question Index: 69986
+Correct Answer: 16 birds
+BERT Answer: 16 birds
+1.0
+####################################################################################
+Question: When did the Luftwaffe fly inland missions?
+Question Index: 69886
+Correct Answer: only on moonlit nights
+BERT Answer: inland missions
+0.0
+####################################################################################
+Question: What did the working group integrate their ideas with?
+Question Index: 22833
+Correct Answer: filter bank
+BERT Answer: Biocontrol
+0.0
+####################################################################################
+Question: Where are narrative biblical scenes painted in the church at Saint-Savin-sur-Gartempe?
+Question Index: 21014
+Correct Answer: on the barrel-vaulted roof
+BERT Answer: None
+0.0
+####################################################################################
+Question: When does the Premier League have its playing season?
+Question Index: 74268
+Correct Answer: During the course of a season (from August to May)
+BERT Answer: August to May
+0.0
+####################################################################################
+Question: In 1940 what percentage used the Tube for a sleeping shelter?
+Question Index: 69678
+Correct Answer: 4%
+BERT Answer: None
+0.0
+####################################################################################
+Question: What organization did Berners-Lee create?
+Question Index: 12111
+Correct Answer: World Wide Web Foundation
+BERT Answer: World Wide Web Foundation
+1.0
+####################################################################################
+Question: What dialect is the language Romansh similar to?
+Question Index: 15194
+Correct Answer: Lombardic alpine
+BERT Answer: Standard ) German, but the mainspoken language is the Alemannic Swiss German dialect called Bernese German
+0.0
+####################################################################################
+Question: Who held the balance of power in the 1910 election?
+Question Index: 71350
+Correct Answer: Labour and Irish Nationalist members.
+BERT Answer: None
+0.0
+####################################################################################
+Question: What generates protonated molecular hydrogen?
+Question Index: 11858
+Correct Answer: ionization of molecular hydrogen from cosmic rays
+BERT Answer: Electrolysis of brine to yield chlorine
+3.0
+####################################################################################
+Question: What type of sensory issue was a concern prior to the release of 5th gen iPods?
+Question Index: 1827
+Correct Answer: hearing loss
+BERT Answer: weak bass response
+0.0
+####################################################################################
+Question: What was Burke's final publication?
+Question Index: 45788
+Correct Answer: Letters on a Regicide Peace
+BERT Answer: Thoughts and Details on Scarcity
+0.0
+####################################################################################
+Question: How many days did the recount after the 2000 US election last for?
+Question Index: 80150
+Correct Answer: 39
+BERT Answer: 39
+1.0
+####################################################################################
+Question: What would an omnidirectional antenna look like if plotted?
+Question Index: 71782
+Correct Answer: donut
+BERT Answer: non
+1.0
+####################################################################################
+Question: In what borough is the National Tennis Center located?
+Question Index: 3729
+Correct Answer: Queens
+BERT Answer: None
+1.0
+####################################################################################
+Question: Music from what two decades is notably featured on the soft AC format?
+Question Index: 13796
+Correct Answer: 1960s and 1970s
+BERT Answer: 1960s and
+3.0
+####################################################################################
+Question: How many countries got independence from Britain during decolonization?
+Question Index: 31421
+Correct Answer: Over 20 countries
+BERT Answer: None
+0.0
+####################################################################################
+Question: Who coaches the University of Arizona's swim team?
+Question Index: 73230
+Correct Answer: Frank Busch
+BERT Answer: Lute Olson
+0.0
+####################################################################################
+Question: What isotope of uranium was the first to be found fissile?
+Question Index: 30978
+Correct Answer: 235
+BERT Answer: Uranium-
+0.0
+####################################################################################
+Question: What parts of Frederic's personal life influenced his legacy as a leading symbol of the era?
+Question Index: 807
+Correct Answer: his love life and his early death
+BERT Answer: New Spain
+0.0
+####################################################################################
+Question: What group was excluded or persecuted by the empire?
+Question Index: 81237
+Correct Answer: Heretics
+BERT Answer: None
+0.0
+####################################################################################
+Question: Which community is the longest continuous Chinese settlement in the Western World?
+Question Index: 28237
+Correct Answer: Melbourne Chinatown
+BERT Answer: None
+0.0
+####################################################################################
+Question: What modern building material did Viollet-le-Duc teach reform Gothic designers to work with?
+Question Index: 45196
+Correct Answer: cast iron
+BERT Answer: cast iron
+1.0
+####################################################################################
+Question: What are scripts that utilized two seperate cases called?
+Question Index: 23304
+Correct Answer: bicameral
+BERT Answer: bnakavayr
+0.0
+####################################################################################
+Question: What is the name of a magazine published at KU?
+Question Index: 14486
+Correct Answer: Jayplay magazine
+BERT Answer: Jay
+1.0
+####################################################################################
+Question: What did King charles levy on river boats 
+Question Index: 44376
+Correct Answer: King Charles I, river tolls were levied on boats to pay for the maintenance of the bridge.
+BERT Answer: "
+0.0
+####################################################################################
+Question: What part of the V&A was the Royal Institute's Drawing and Archives collection moved to?
+Question Index: 14234
+Correct Answer: the Henry Cole Wing
+BERT Answer: 21 Portman Place to new facilities in the Henry Cole Wing
+1.0
+####################################################################################
+Question: When did the Canadian Armed Forces name cease to be?
+Question Index: 7913
+Correct Answer: After the 1980s
+BERT Answer: None
+0.0
