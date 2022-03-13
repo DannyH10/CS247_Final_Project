@@ -1,6 +1,10 @@
 # CS247_Final_Project
 This project contains all test code, training data sets, benchmarking results and our paper for the winter 2022 CS247 course project.
 
+## Please make sure to Unzip Training Data before Opening Jupyter Notebook
+- Training data excel files are 13 MB and 112 MB
+- Compressed them to a zip file to upload to GitHub
+
 ## Set up dev environment
 
 - `conda env create -n CS247_project`: create new environment
